@@ -1,0 +1,5 @@
+--- 
+open_files: 
+  - public/hello.html
+  - public/index.html
+  - app/controllers/static_pages_controller.rb
